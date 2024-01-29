@@ -5,7 +5,7 @@
 #define BAIXO 's'
 #define DIREITA 'd'
 #define ESQUERDA 'a'
-#define BOMBA 'b'
+#define BOMBA 'x'
 
 int acabou();
 void move(char direcao);
